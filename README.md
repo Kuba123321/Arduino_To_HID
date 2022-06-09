@@ -20,6 +20,7 @@ On top menu select File-Load Hex file- find arduino-keyboard.hex localisation an
 
 After that arduino converted to HID will be doing code that you write.
 ================================================================================================================================================================
+
 How to get arduino back in COM mode.
 
 
