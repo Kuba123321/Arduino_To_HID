@@ -11,6 +11,7 @@ On this repository you can find some examples and understand how the code work
 
 After you write you code click on upload on left top corner (important in IDE you have to chose COM3 under tools-port-COM3)
 Next you have to put ARDUINO in DFU mode to do that you need to short ![image](https://user-images.githubusercontent.com/90273406/170819092-6b1f80ac-9716-4226-bfa9-1fed6730d968.png)
+
 Next go to the Atmel Flip
 Click on Device Selection and select yours microprocesor for my arduino uno r3 is ATmega16u2 click OK. Then click on next icon (USB) select USB or press ctrl-u.
 On top menu select File-Load Hex file-Find arduino-keyboard.hex localisation and select it. After that click run. To see efects you need to unplug arduino and plugi in again. 
